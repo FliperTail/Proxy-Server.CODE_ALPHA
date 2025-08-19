@@ -311,16 +311,6 @@
       "url": "openAg('https://slither.io')"
     },
     {
-      "name": "Stickman Archero Fight",
-      "imageUrl": "https://www5.minijuegosgratis.com/v3/games/thumbnails/241942_7_sq.jpg",
-      "url": "openAg('https://html5.gamedistribution.com/rvvASMiM/3f4c166817ad4fd4b5b05d9adba22fcd/?gd_sdk_referrer_url=https://www.gamegab.com/play/16561/Stickman-Archero-Fight/')"
-    },
-    {
-      "name": "Stickman Survival",
-      "imageUrl": "https://assets.3kh0.net/Stickman-Survival/Icon.png",
-      "url": "openAg('https://assets.3kh0.net/Stickman-Survival/index.html')"
-    },
-    {
       "name": "Territorial.io",
       "imageUrl": "/assets/img/territorial.webp",
       "url": "openAg('https://territorial.io')"
@@ -342,11 +332,6 @@
     }
   ],
   "Running Games": [
-    {
-      "name": "Avalanche",
-      "imageUrl": "https://assets.3kh0.net/avalanche/avalanche.png",
-      "url": "openAg('https://assets.3kh0.net/avalanche/index.html')"
-    },
     {
       "name": "Backrooms",
       "imageUrl": "https://raw.githack.com/Skoolgq/Polaris-Assets/main/images/backrooms.jpg",
@@ -470,11 +455,6 @@
       "url": "openAg('https://html5.gamedistribution.com/rvvASMiM/2c122cee7ef04222a962449e32a34e98/?gd_sdk_referrer_url=https://gamedistribution.com/games/asphalt-retro')"
     },
     {
-      "name": "Cars Simulator",
-      "imageUrl": "https://assets.3kh0.net/cars-simulator/splash.png",
-      "url": "openAg('https://assets.3kh0.net/cars-simulator/index.html')"
-    },
-    {
       "name": "Draw the Hill",
       "imageUrl": "/assets/img/drawthehill.jpg",
       "url": "openAg('https://www.mathplayground.com/draw-the-hill/index.html')"
@@ -550,21 +530,6 @@
       "name": "Amaze!",
       "imageUrl": "https://play-lh.googleusercontent.com/hypAu2hPcTpg-FkZr7CjrWDspK_9Nm3UKvPWln9zaFUnIr-m6WQvEZ2baAaG0ufzrg",
       "url": "openAg('https://580820627722902829.playables.usercontent.goog/v/assets/index.html#origin=https%3A%2F%2Fwww.youtube.com')"
-    },
-    {
-      "name": "Bad Ice Cream",
-      "imageUrl": "https://assets.3kh0.net/bad-ice-cream/bad-ice-cream.png",
-      "url": "openAg('https://assets.3kh0.net/bad-ice-cream/index.html')"
-    },
-    {
-      "name": "Bad Ice Cream 2",
-      "imageUrl": "https://assets.3kh0.net/bad-ice-cream-2/bad-ice-cream-2.png",
-      "url": "openAg('https://assets.3kh0.net/bad-ice-cream-2/index.html')"
-    },
-    {
-      "name": "Bad Ice Cream 3",
-      "imageUrl": "https://assets.3kh0.net/bad-ice-cream-3/bad-ice-cream-3.png",
-      "url": "openAg('https://assets.3kh0.net/bad-ice-cream-3/index.html')"
     },
     {
       "name": "Bitlife",

@@ -19,6 +19,7 @@ const discord = 'https://discord.gg/7PSThGbPab';
 const routes = [
   { route: '/mastery', file: './static/loader.html' },
   { route: '/apps', file: './static/apps.html' },
+  { route: '/gms', file: './static/gms.html' },
   { route: '/lessons', file: './static/agloader.html' },
   { route: '/info', file: './static/info.html' },
   { route: '/mycourses', file: './static/loading.html' }

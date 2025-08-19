@@ -14,12 +14,11 @@ const __dirname = path.resolve();
 const server = http.createServer();
 const bareServer = createBareServer('/seal/');
 const app = express(server);
-const version = packageJson.version;
+const version = packageJson.versioAn;
 const discord = 'https://discord.gg/7PSThGbPab';
 const routes = [
   { route: '/mastery', file: './static/loader.html' },
   { route: '/apps', file: './static/apps.html' },
-  { route: '/gms', file: './static/gms.html' },
   { route: '/lessons', file: './static/agloader.html' },
   { route: '/info', file: './static/info.html' },
   { route: '/mycourses', file: './static/loading.html' }
@@ -78,14 +77,14 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on('listening', () => {
-  console.log(chalk.bgBlue.white.bold(`  Welcome to Doge V4, user!  `) + '\n');
+  console.log(chalk.bgBlue.white.bold(`  Welcome to Proxy Server.CODE_ALPHA | V4, user!  `) + '\n');
   console.log(chalk.cyan('-----------------------------------------------'));
   console.log(chalk.green('  🌟 Status: ') + chalk.bold('Active'));
   console.log(chalk.green('  🌍 Port: ') + chalk.bold(chalk.yellow(server.address().port)));
   console.log(chalk.green('  🕒 Time: ') + chalk.bold(new Date().toLocaleTimeString()));
   console.log(chalk.cyan('-----------------------------------------------'));
   console.log(chalk.magenta('📦 Version: ') + chalk.bold(version));
-  console.log(chalk.magenta('🔗 URL: ') + chalk.underline('http://localhost:' + server.address().port));
+  console.log(chalk.magenta('🔗 URL: ') + chalk.underline('https://proxy-server-code-alpha.vercel.app/'));
   console.log(chalk.cyan('-----------------------------------------------'));
   console.log(chalk.blue('💬 Discord: ') + chalk.underline(discord));
   console.log(chalk.cyan('-----------------------------------------------'));
@@ -106,5 +105,5 @@ process.on('SIGINT', () => shutdown('SIGINT'));
 
 
 server.listen({
-  port: 8001,
+  port: 8000,
 });

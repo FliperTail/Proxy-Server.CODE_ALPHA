@@ -737,7 +737,7 @@
     {
       "name": "Eaglercraft",
       "imageUrl": "/assets/img/eaglercraft.png",
-      "url": "openAg('https://flipertail.github.io/Eaglercraft1.12.2/')"
+      "url": "openAg('/assets/ef/Eaglercraft_1.12.2_WASM_Offline_Download.html')"
     },
     {
       "name": "Pool/Billiards Classic",
